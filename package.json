@@ -16,6 +16,6 @@
   "author": "Joshua Kellogg",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.11"
+    "inquirer": "^8.2.4"
   }
 }
