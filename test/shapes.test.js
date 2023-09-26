@@ -15,7 +15,7 @@ describe("subShapes", () => {
 
       const result = myShape.render();
 
-      expect(typeof result).toEqual("String");
+      expect(typeof result).toEqual("string");
     });
   });
 
@@ -25,7 +25,7 @@ describe("subShapes", () => {
 
       const result = myShape.render();
 
-      expect(typeof result).toEqual("String");
+      expect(typeof result).toEqual("string");
     });
   });
 
@@ -35,7 +35,7 @@ describe("subShapes", () => {
 
       const result = myShape.render();
 
-      expect(typeof result).toEqual("String");
+      expect(typeof result).toEqual("string");
     });
   });
 });
