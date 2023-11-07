@@ -6,6 +6,8 @@
 
 This is a command-line based SVG generator that will create a simple SVG file based on the user's specifications.
 
+[Demonstration Video](https://youtu.be/DR3hyBESQWw)
+
 ## Table of Contents
 
 [Installation](#installation)
